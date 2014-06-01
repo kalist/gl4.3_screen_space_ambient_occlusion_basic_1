@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/content/windows">
+        <file>error.qml</file>
+        <file>main.qml</file>
+    </qresource>
+</RCC>

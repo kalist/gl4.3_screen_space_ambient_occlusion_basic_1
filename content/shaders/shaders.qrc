@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/content/shaders">
+        <file>render_pass.fs</file>
+        <file>render_pass.vs</file>
+        <file>collect_data_pass.fs</file>
+        <file>collect_data_pass.vs</file>
+        <file>calculate_ssao_pass.fs</file>
+        <file>calculate_ssao_pass.vs</file>
+        <file>filter_ssao_pass.fs</file>
+        <file>filter_ssao_pass.vs</file>
+        <file>compose_pass.fs</file>
+        <file>compose_pass.vs</file>
+    </qresource>
+</RCC>
